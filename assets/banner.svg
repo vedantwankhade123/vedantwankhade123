@@ -1,56 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
   <defs>
+    <!-- Ultra subtle light gradient -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ffffff" />
       <stop offset="100%" stop-color="#f8fafc" />
     </linearGradient>
-    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.15" />
-      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    
+    <!-- Minimalist pastel gradient orb -->
+    <linearGradient id="orb1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0f2fe" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#f3e8ff" stop-opacity="0.8" />
     </linearGradient>
-    <linearGradient id="glow2" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.1" />
-      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0" />
+    <linearGradient id="orb2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fdf4ff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#e0f2fe" stop-opacity="0.8" />
     </linearGradient>
+
+    <!-- Refined Text Gradient -->
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#334155" />
     </linearGradient>
-    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0ea5e9" />
-      <stop offset="100%" stop-color="#6366f1" />
-    </linearGradient>
+
     <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="45" />
+      <feGaussianBlur stdDeviation="60" />
     </filter>
   </defs>
 
   <!-- Base Background -->
-  <rect width="800" height="300" rx="16" fill="url(#bg)" />
+  <rect width="800" height="250" rx="12" fill="url(#bg)" stroke="#e2e8f0" stroke-width="1" />
   
-  <!-- Subtle Mesh Gradients / Glows -->
-  <circle cx="150" cy="50" r="150" fill="url(#glow1)" filter="url(#blur)" />
-  <circle cx="650" cy="250" r="200" fill="url(#glow2)" filter="url(#blur)" />
+  <!-- Subtle Glowing Orbs -->
+  <circle cx="150" cy="50" r="140" fill="url(#orb1)" filter="url(#blur)" />
+  <circle cx="650" cy="200" r="160" fill="url(#orb2)" filter="url(#blur)" />
 
-  <!-- Subtle Topographic or Grid Lines -->
-  <g opacity="0.06">
-    <path d="M 0 50 Q 200 100 400 50 T 800 50" fill="none" stroke="#0f172a" stroke-width="1" />
-    <path d="M 0 100 Q 200 150 400 100 T 800 100" fill="none" stroke="#0f172a" stroke-width="1" />
-    <path d="M 0 150 Q 200 200 400 150 T 800 150" fill="none" stroke="#0f172a" stroke-width="1" />
-    <path d="M 0 200 Q 200 250 400 200 T 800 200" fill="none" stroke="#0f172a" stroke-width="1" />
-    <path d="M 0 250 Q 200 300 400 250 T 800 250" fill="none" stroke="#0f172a" stroke-width="1" />
+  <!-- Clean Minimalist Grid Lines -->
+  <g opacity="0.04" stroke="#0f172a" stroke-width="1">
+    <!-- Horizontal -->
+    <line x1="0" y1="50" x2="800" y2="50" />
+    <line x1="0" y1="100" x2="800" y2="100" />
+    <line x1="0" y1="150" x2="800" y2="150" />
+    <line x1="0" y1="200" x2="800" y2="200" />
+    <!-- Vertical -->
+    <line x1="100" y1="0" x2="100" y2="250" />
+    <line x1="200" y1="0" x2="200" y2="250" />
+    <line x1="600" y1="0" x2="600" y2="250" />
+    <line x1="700" y1="0" x2="700" y2="250" />
   </g>
 
-  <!-- Center Accent Box -->
-  <rect x="385" y="60" width="30" height="4" rx="2" fill="url(#accentGrad)" />
-
-  <!-- Main text -->
-  <text x="400" y="150" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="800" font-size="52" fill="url(#textGrad)" text-anchor="middle" letter-spacing="4">VEDANT WANKHADE</text>
+  <!-- Name (Minimalist, Light Weight, High Tracking) -->
+  <text x="404" y="125" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="300" font-size="44" fill="url(#textGrad)" text-anchor="middle" letter-spacing="8">VEDANT WANKHADE</text>
   
-  <!-- Subtext -->
-  <text x="400" y="200" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="700" font-size="18" fill="#475569" text-anchor="middle" letter-spacing="2">FULL-STACK DEVELOPER &amp; UI/UX DESIGNER</text>
+  <!-- Role (Minimalist, Medium Weight) -->
+  <text x="402" y="170" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="500" font-size="15" fill="#64748b" text-anchor="middle" letter-spacing="4">FULL STACK DEVELOPER</text>
   
-  <!-- Decorative Dots -->
-  <circle cx="390" cy="240" r="2.5" fill="#0ea5e9" />
-  <circle cx="410" cy="240" r="2.5" fill="#6366f1" />
+  <!-- Subtle accent line -->
+  <rect x="385" y="195" width="30" height="2" fill="#cbd5e1" rx="1" />
 </svg>
