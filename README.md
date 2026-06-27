@@ -5,15 +5,15 @@
   <br />
 
   <a href="https://github.com/vedantwankhade123">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Building+Real+Products;React+%26+TypeScript+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+Enthusiast;Building+Scalable+Products;Full-Stack+Engineer;Problem+Solver" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Enthusiastic Coder | Open Source Contributor | Software & Web Development</strong>
+    <strong>Enthusiastic Coder | MERN Stack Developer | Software & Web Development</strong>
   </p>
   
   <p align="center">
-    I am a passionate software engineer from India, focusing on building premium, interactive web applications and AI-driven systems. I enjoy keeping up with live and upcoming trends of the programming era.
+    I am a passionate software engineer from India, focusing on building premium, interactive web applications and AI-driven systems. I enjoy creating sophisticated architectures utilizing the MERN stack and keeping up with the modern programming era.
   </p>
   
   <img src="./assets/divider.svg" alt="Divider" width="100%" />
@@ -22,9 +22,31 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,html,css,python,git,github,vscode,figma&theme=dark" alt="My Skills" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="33%" valign="top">
+        <h3>🌐 Frontend</h3>
+        <br />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,vite&theme=dark&perline=4" alt="Frontend" />
+        </a>
+      </td>
+      <td align="center" width="33%" valign="top">
+        <h3>⚙️ Backend & DB</h3>
+        <br />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python&theme=dark&perline=3" alt="Backend" />
+        </a>
+      </td>
+      <td align="center" width="33%" valign="top">
+        <h3>🛠️ Tools</h3>
+        <br />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=3" alt="Tools" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -36,13 +58,13 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">✨ Portfolio Website</h3>
         <p align="center">Premium, interactive portfolio of Vedant Wankhade built with React, Vite, GSAP, and Tailwind CSS. Includes a synchronized live voice tour.</p>
         <p align="center"><strong>Tech Stack:</strong> TypeScript, React, Vite, GSAP, Tailwind CSS, Framer Motion</p>
         <p align="center"><a href="https://github.com/vedantwankhade123/Portfolio-Website"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
       </td>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">🔍 AI Leak & Anomaly Detection</h3>
         <p align="center">An intelligent system designed to detect leaks and anomalies efficiently using modern artificial intelligence techniques.</p>
         <p align="center"><strong>Tech Stack:</strong> Python, AI/ML Libraries</p>
@@ -50,13 +72,13 @@
       </td>
     </tr>
     <tr>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">🏥 Healbook</h3>
         <p align="center">A comprehensive application focused on healthcare and medical tracking, built with strong TypeScript foundations.</p>
-        <p align="center"><strong>Tech Stack:</strong> TypeScript</p>
+        <p align="center"><strong>Tech Stack:</strong> TypeScript, Node.js</p>
         <p align="center"><a href="https://github.com/vedantwankhade123/healbook"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
       </td>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">🛒 Fashion E-Commerce</h3>
         <p align="center">A stylish and responsive e-commerce platform designed for the fashion industry, implementing interactive UI components.</p>
         <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
@@ -112,12 +134,12 @@
 <div align="center">
   <table>
     <tr>
-      <td>🌱 <strong>Currently Learning:</strong> Advanced AI/ML Concepts & Next.js</td>
-      <td>🛠️ <strong>Working On:</strong> Interactive Web Portfolios & TypeScript Apps</td>
+      <td>🌱 <strong>Currently Learning:</strong> Advanced MERN Stack Architectures & AI Integrations</td>
+      <td>🛠️ <strong>Working On:</strong> Full-Stack Applications with MongoDB, Express, React, and Node.js</td>
     </tr>
     <tr>
-      <td>🤝 <strong>Looking to Collaborate on:</strong> Open Source React & Python Projects</td>
-      <td>💬 <strong>Ask Me About:</strong> Frontend Development, UI/UX, & React</td>
+      <td>🤝 <strong>Looking to Collaborate on:</strong> Open Source React, Node.js, & Python Projects</td>
+      <td>💬 <strong>Ask Me About:</strong> Frontend Development, UI/UX, React, & Backend APIs</td>
     </tr>
   </table>
 </div>
@@ -129,7 +151,7 @@
 ## ⚡ Fun Facts
 
 - 🎨 **Design meets Code:** I love bridging the gap between aesthetic design and functional logic.
-- 🚀 **Performance First:** My portfolio isn't just about looks; it features smooth GSAP animations!
+- 🚀 **Performance First:** My applications are designed to be fast, responsive, and scalable using the MERN stack.
 - 🕵️ **Problem Solver:** Building AI-powered anomaly detection systems keeps my brain sharp.
 
 <div align="center">
