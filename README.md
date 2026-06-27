@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Vedant Wankhade Banner" width="100%" />
+  <img src="./assets/main.png" alt="Vedant Wankhade Banner" width="100%" />
 
   <br />
   <br />
