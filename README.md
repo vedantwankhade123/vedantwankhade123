@@ -122,19 +122,35 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantwankhade123&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantwankhade123&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vedantwankhade123&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vedantwankhade123&show_icons=true&theme=default&hide_border=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vedantwankhade123&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vedantwankhade123&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vedantwankhade123&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantwankhade123&theme=tokyonight&hide_border=true" width="48%">
+  </picture>
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantwankhade123&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantwankhade123&layout=donut&theme=tokyonight&hide_border=true&hide=html,css&custom_title=Most%20Used%20Languages%20(Logic%20%26%20Frameworks)">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantwankhade123&layout=donut&theme=default&hide_border=true&hide=html,css&custom_title=Most%20Used%20Languages%20(Logic%20%26%20Frameworks)">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantwankhade123&layout=donut&theme=tokyonight&hide_border=true&hide=html,css&custom_title=Most%20Used%20Languages%20(Logic%20%26%20Frameworks)" width="48%">
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantwankhade123&theme=transparent&hide_border=true&bg_color=transparent" alt="Activity Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vedantwankhade123&theme=tokyonight&hide_border=true&bg_color=1a1b27">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vedantwankhade123&theme=default&hide_border=true&bg_color=ffffff">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vedantwankhade123&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%">
+  </picture>
 </div>
 
 <div align="center">
