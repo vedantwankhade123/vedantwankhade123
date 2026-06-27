@@ -22,31 +22,44 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%" valign="top">
-        <h3>🌐 Frontend</h3>
-        <br />
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,vite&theme=dark&perline=4" alt="Frontend" />
-        </a>
-      </td>
-      <td align="center" width="33%" valign="top">
-        <h3>⚙️ Backend & DB</h3>
-        <br />
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python&theme=dark&perline=3" alt="Backend" />
-        </a>
-      </td>
-      <td align="center" width="33%" valign="top">
-        <h3>🛠️ Tools</h3>
-        <br />
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=3" alt="Tools" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  
+  <h3>🌐 Frontend</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,vite,figma&theme=dark" alt="Frontend" />
+  </a>
+  
+  <br />
+  <br />
+  
+  <h3>⚙️ Backend</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Backend" />
+  </a>
+  
+  <br />
+  <br />
+
+  <h3>🗄️ Database</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres&theme=dark" alt="Database" />
+  </a>
+
+  <br />
+  <br />
+
+  <h3>🧠 AI & ML</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn&theme=dark" alt="AI" />
+  </a>
+
+  <br />
+  <br />
+
+  <h3>🛠️ Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" alt="Tools" />
+  </a>
+
 </div>
 
 <div align="center">
@@ -59,30 +72,44 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">✨ Portfolio Website</h3>
-        <p align="center">Premium, interactive portfolio of Vedant Wankhade built with React, Vite, GSAP, and Tailwind CSS. Includes a synchronized live voice tour.</p>
-        <p align="center"><strong>Tech Stack:</strong> TypeScript, React, Vite, GSAP, Tailwind CSS, Framer Motion</p>
-        <p align="center"><a href="https://github.com/vedantwankhade123/Portfolio-Website"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
-      </td>
-      <td width="50%" valign="top">
         <h3 align="center">🔍 AI Leak & Anomaly Detection</h3>
         <p align="center">An intelligent system designed to detect leaks and anomalies efficiently using modern artificial intelligence techniques.</p>
         <p align="center"><strong>Tech Stack:</strong> Python, AI/ML Libraries</p>
         <p align="center"><a href="https://github.com/vedantwankhade123/AI-POWERED-LEAK-AND-ANOMALY-DETECTION-SYSTEM"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3 align="center">🏥 Healbook</h3>
         <p align="center">A comprehensive application focused on healthcare and medical tracking, built with strong TypeScript foundations.</p>
         <p align="center"><strong>Tech Stack:</strong> TypeScript, Node.js</p>
         <p align="center"><a href="https://github.com/vedantwankhade123/healbook"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🛒 Fashion E-Commerce</h3>
-        <p align="center">A stylish and responsive e-commerce platform designed for the fashion industry, implementing interactive UI components.</p>
+        <h3 align="center">🌐 Eph-Hub</h3>
+        <p align="center">A robust hub platform for centralized communications and seamless user management.</p>
+        <p align="center"><strong>Tech Stack:</strong> React, Node.js, Express</p>
+        <p align="center"><a href="https://github.com/vedantwankhade123/Eph-Hub"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">✨ Portfolio Website</h3>
+        <p align="center">Premium, interactive portfolio of Vedant Wankhade built with React, Vite, GSAP, and Tailwind CSS. Includes a synchronized live voice tour.</p>
+        <p align="center"><strong>Tech Stack:</strong> TypeScript, React, Vite, GSAP, Tailwind CSS</p>
+        <p align="center"><a href="https://github.com/vedantwankhade123/Portfolio-Website"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🛒 Ekdanta E-Commerce</h3>
+        <p align="center">A stylish and responsive e-commerce solution providing a seamless shopping experience for users.</p>
+        <p align="center"><strong>Tech Stack:</strong> MERN Stack</p>
+        <p align="center"><a href="https://github.com/vedantwankhade123/Ekdanta-Ecommerce"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎨 Drawgit</h3>
+        <p align="center">An innovative digital drawing and version control integration tool for developers and designers.</p>
         <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
-        <p align="center"><a href="https://github.com/vedantwankhade123/Fassion-Ecommerce"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+        <p align="center"><a href="https://github.com/vedantwankhade123/Drawgit"><img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
       </td>
     </tr>
   </table>
