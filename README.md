@@ -72,6 +72,7 @@
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" width="48" /><br/>TensorFlow</td>
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="48" /><br/>PyTorch</td>
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=scikitlearn&theme=light" width="48" /><br/>Scikit-Learn</td>
+      <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Weka_logo.png" width="48" height="48" style="object-fit: contain;" /><br/>Weka</td>
     </tr>
   </table>
 
