@@ -5,15 +5,15 @@
   <br />
 
   <a href="https://github.com/vedantwankhade123">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+Enthusiast;Building+Scalable+Products;Full-Stack+Engineer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Designer;Building+Scalable+Products;MERN+Stack+Engineer;Problem+Solver" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Enthusiastic Coder | MERN Stack Developer | Software & Web Development</strong>
+    <strong>Enthusiastic Coder | Full-Stack Developer | UI/UX Designer</strong>
   </p>
   
   <p align="center">
-    I am a passionate software engineer from India, focusing on building premium, interactive web applications and AI-driven systems. I enjoy creating sophisticated architectures utilizing the MERN stack and keeping up with the modern programming era.
+    I am a passionate software engineer from India, focusing on building premium, interactive web applications with an emphasis on seamless UI/UX design. I enjoy creating sophisticated architectures utilizing the MERN stack and keeping up with the modern programming era.
   </p>
   
   <img src="./assets/divider.svg" alt="Divider" width="100%" />
@@ -134,11 +134,11 @@
 <div align="center">
   <table>
     <tr>
-      <td>🌱 <strong>Currently Learning:</strong> Advanced MERN Stack Architectures & AI Integrations</td>
-      <td>🛠️ <strong>Working On:</strong> Full-Stack Applications with MongoDB, Express, React, and Node.js</td>
+      <td>🌱 <strong>Currently Learning:</strong> Advanced MERN Stack Architectures & UI/UX Principles</td>
+      <td>🛠️ <strong>Working On:</strong> Full-Stack Applications with intuitive User Interfaces</td>
     </tr>
     <tr>
-      <td>🤝 <strong>Looking to Collaborate on:</strong> Open Source React, Node.js, & Python Projects</td>
+      <td>🤝 <strong>Looking to Collaborate on:</strong> Open Source React, Node.js, & Design Projects</td>
       <td>💬 <strong>Ask Me About:</strong> Frontend Development, UI/UX, React, & Backend APIs</td>
     </tr>
   </table>
@@ -151,8 +151,8 @@
 ## ⚡ Fun Facts
 
 - 🎨 **Design meets Code:** I love bridging the gap between aesthetic design and functional logic.
-- 🚀 **Performance First:** My applications are designed to be fast, responsive, and scalable using the MERN stack.
-- 🕵️ **Problem Solver:** Building AI-powered anomaly detection systems keeps my brain sharp.
+- 🚀 **Performance First:** My applications are designed to be fast, responsive, and beautifully structured.
+- 🕵️ **Problem Solver:** Crafting seamless user experiences and robust architectures keeps my brain sharp.
 
 <div align="center">
   <img src="./assets/divider.svg" alt="Divider" width="100%" />
