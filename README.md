@@ -188,6 +188,15 @@
 ## 📫 Let's Connect
 
 <div align="center">
+  <a href="https://vedantwankhade.online">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedantwankhade123">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vedantwankhade47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/vedantwankhade123">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
