@@ -122,20 +122,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/vedantwankhade123">
-    <img src="https://github-profile-trophy.vercel.app/?username=vedantwankhade123&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantwankhade123&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantwankhade123&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantwankhade123&show_icons=true&theme=radium&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=818cf8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantwankhade123&theme=radium&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantwankhade123&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
 </div>
+
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantwankhade123&layout=compact&theme=radium&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantwankhade123&theme=transparent&hide_border=true&bg_color=transparent" alt="Activity Graph" width="100%" />
 </div>
 
 <div align="center">
@@ -146,9 +145,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantwankhade123/vedantwankhade123/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantwankhade123/vedantwankhade123/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedantwankhade123/vedantwankhade123/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantwankhade123/VedantWankhade/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantwankhade123/VedantWankhade/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedantwankhade123/VedantWankhade/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
